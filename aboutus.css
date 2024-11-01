@@ -1,0 +1,75 @@
+
+/* .my-h-container {
+    width: 100%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    background-color: #ffffff;
+}
+.my-h-one {
+    font-size: 18px;
+    font-weight: normal;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+.my-h-two {
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.my-h-p {
+    font-size: 14px;
+    line-height: 1.5;
+    margin-top: 0;
+    margin-bottom: 20px;
+} */
+ 
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: #fafafa;
+}
+
+.about-us {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+h1 {
+    color: #333;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 28px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+h3 {
+    color: #333;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+p {
+    color: #666;
+    font-size: 15px;
+    line-height: 22px;
+    margin-bottom: 20px;
+}
+
+.head{
+    border-radius: 5px;
+    background-color: #ffffff;
+}
